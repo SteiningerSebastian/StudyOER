@@ -1,0 +1,18 @@
+{
+  "scripts":[
+    {
+      "title": "Lab. Embedded Systems",
+      "description": "This script guides students of the HTL-Neufelden through the laboratory Embedded Systems. It teaches students about microcontrollers, embedded systems and Micro Python. In this script the authors show how to read and write analog and digital values, work with a BUS (I2C) and much more. The script also refreshes the readers recolaction about topics like Python and Electronics.",
+      "image":"https://cdn.pixabay.com/photo/2021/03/01/09/31/microcontroller-6059240_960_720.jpg",
+      "src": "https://raw.githubusercontent.com/SteiningerSebastian/SteiningerScripts/refs/heads/main/Lab.%20Embedded%20Systems.md",
+      "author": "Sebastian Steininger (sebastian.steininger@outlook.com)"
+    },
+    {
+      "title": "Lab. Virtualization & DevOps",
+      "description": "This script guides students of the HTL-Neufelden through the laboratory Virtualization & DevOps. Students will learn abou Containerization, Virtualization, Orchestration, etc. in the context of DevOps. The authors provide extensive examples and documentation to solve the provided tasks. The authors employ several tools like Docker, Docker-Compose, Kubernetes and Apache JMeter to provide an interactive learning experience.",
+      "image":"https://cdn.pixabay.com/photo/2022/10/04/21/25/xr-7499160_1280.jpg",
+      "src": "https://raw.githubusercontent.com/SteiningerSebastian/SteiningerScripts/refs/heads/main/Lab.%20Virtualization%20and%20DevOps.md",
+      "author": "Sebastian Steininger (sebastian.steininger@outlook.com)"
+    }
+  ]
+}
