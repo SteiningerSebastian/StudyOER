@@ -20,7 +20,7 @@
     },
     {
       "id": "912dba62-703d-4381-b8be-8c9945526750",
-      "title": "Captrue and Deploy using ProvisionDismPC",
+      "title": "ProvisionDismPC - Capture & Deploy Windows11 Images",
       "description": "This script explains how to use ProvisonDismPC to capture and deploy a Windows11 virtualized system using Hyper-V.",
       "image":"https://cdn.pixabay.com/photo/2020/05/07/04/01/digitization-5140071_960_720.jpg",
       "src": "https://raw.githubusercontent.com/SteiningerSebastian/ProvisionDismPC/refs/heads/main/Documentation/ProvisionDismPC.md",
