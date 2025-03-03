@@ -26,6 +26,15 @@
       "src": "https://raw.githubusercontent.com/SteiningerSebastian/ProvisionDismPC/refs/heads/main/Documentation/ProvisionDismPC.md",
       "author": "Sebastian Steininger (sebastian.steininger@outlook.com)",
       "repository": "https://github.com/SteiningerSebastian/ProvisionDismPC"
+    },
+    {
+      "id": "2158a113-4111-422a-98de-3ad13b2dce10",
+      "title": "Game Development with PixiJS",
+      "description": "This script explains the fundamentals of game development and how to create a game with PixiJs.",
+      "image":"https://cdn.pixabay.com/photo/2021/09/07/07/11/game-console-6603120_1280.jpg",
+      "src": "https://raw.githubusercontent.com/SteiningerSebastian/SteiningerScripts/refs/heads/main/Game%20Development%20with%20PixiJS.md",
+      "author": "Sebastian Steininger (sebastian.steininger@outlook.com)",
+      "repository": "https://raw.githubusercontent.com/SteiningerSebastian/SteiningerScripts"
     }
   ]
 }
