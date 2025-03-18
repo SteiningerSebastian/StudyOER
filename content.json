@@ -35,6 +35,15 @@
       "src": "https://raw.githubusercontent.com/SteiningerSebastian/SteiningerScripts/refs/heads/main/Game%20Development%20with%20PixiJS.md",
       "author": "Sebastian Steininger (sebastian.steininger@outlook.com)",
       "repository": "https://github.com/SteiningerSebastian/SteiningerScripts"
+    },
+    {
+      "id": "94c67450-151b-4dde-a0ef-9bc08d5ce32c",
+      "title": "Machine Learning",
+      "description": "Begin your machine learning journey with this script, which details basic algorithms like KNN, DBSCAN, and Decision Trees. It then guides you through crucial feature engineering steps, such as normalization and imputation. Note that deep learning is covered in a separate, follow-up script.",
+      "image":"https://cdn.pixabay.com/photo/2024/01/24/15/04/ai-8529773_1280.jpg",
+      "src": "https://raw.githubusercontent.com/SteiningerSebastian/SteiningerScripts/refs/heads/main/Machine%20Learning.md",
+      "author": "Sebastian Steininger (sebastian.steininger@outlook.com)",
+      "repository": "https://github.com/SteiningerSebastian/SteiningerScripts"
     }
   ]
 }
