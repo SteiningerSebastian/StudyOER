@@ -50,7 +50,7 @@
       "title": "LLM Prompting: Foundations for Responsible Use",
       "description": "Unlock the full potential of Large Language Models (LLMs) with this comprehensive script on prompt engineering. Learn fundamental principles, advanced techniques like Chain-of-Thought, and critical strategies for adaptive prompting. Crucially, this guide emphasizes responsible AI use, covering vital ethical considerations such as bias, hallucinations, privacy, and the creation of AI agents. Ideal for anyone looking to interact with LLMs effectively and ethically.",
       "image": "https://cdn.pixabay.com/photo/2023/02/11/16/32/ai-generated-7783344_1280.jpg",
-      "src": "https://raw.githubusercontent.com/SteiningerSebastian/SteiningerScripts/refs/heads/main/LLMPromptingFoundationsforResponsibleUse.md",
+      "src": "https://raw.githubusercontent.com/SteiningerSebastian/SteiningerScripts/refs/heads/main/LLM%20Prompting%20Foundations%20for%20Responsible%20Use.md",
       "author": "Sebastian Steininger (sebastian.steininger@outlook.com)",
       "repository": "https://github.com/SteiningerSebastian/SteiningerScripts"
     }
