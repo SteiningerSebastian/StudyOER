@@ -59,7 +59,7 @@
       "title": "Cloud Computing - Development",
       "description": "In a world where agility, scalability, and innovation drive success, the cloud has become the backbone of modern software development. From startups deploying apps overnight to global enterprises managing data across continents, cloud development empowers teams to build faster, smarter, and more securely than ever before. This script dives into the tools, practices, and mindset behind cloud-native development—where infrastructure is code, deployments are automated, and possibilities are limitless. And beneath it all, distributed algorithms quietly ensure that systems stay synchronized, fault-tolerant, and efficient—even when stretched across the globe",
       "image": "https://pixabay.com/get/g5706267301b4307b3d23afc089a9e7ba166a2dfc0d1b364c440bb5ebb6435892d01196cf1526d0798afd20799a6b95696477b08004859b1d04e294ac1b9edf0a_1280.jpg",
-      "src": "https://raw.githubusercontent.com/SteiningerSebastian/SteiningerScripts/refs/heads/main/CloudComputingDev.md",
+      "src": "https://raw.githubusercontent.com/SteiningerSebastian/SteiningerScripts/refs/heads/main/Cloud%20Computing%20-%20Development.md",
       "author": "Sebastian Steininger (sebastian.steininger@outlook.com)",
       "repository": "https://github.com/SteiningerSebastian/SteiningerScripts"
     }
