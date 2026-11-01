@@ -67,7 +67,7 @@
       "id": "b003ebe6-2603-4263-bcf9-fd8fe4a08f52",
       "title": "RobotIT - RTOS Development",
       "description": "This script guides students of the HTL-Neufelden through a laboratory on real time operating systems on an ESP32-S3 robot. It covers bare metal versus RTOS versus Linux, task scheduling across two cores, and safe data sharing with mutexes, queues and sequence numbers, with every chapter backed by a measurable experiment in a simulator before the students build a project of their own on real hardware.",
-      "image": "https://pixabay.com/images/download/juliush-ai-generated-8592581_1920.jpg",
+      "image": "https://cdn.pixabay.com/photo/2024/02/23/18/13/ai-generated-8592581_1280.jpg",
       "src": "https://raw.githubusercontent.com/SteiningerSebastian/SteiningerScripts/refs/heads/main/Lab.%20RTOS%20RobotIT.md",
       "author": "Sebastian Steininger (sebastian.steininger@outlook.com), Deepseek v4.1-Flash",
       "repository": "https://github.com/SteiningerSebastian/SteiningerScripts"
